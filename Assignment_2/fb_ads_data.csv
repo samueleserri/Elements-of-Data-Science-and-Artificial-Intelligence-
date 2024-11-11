@@ -1,0 +1,97 @@
+Region,interests,Gender,Audience Upper Bound,Audience Lower Bound
+Saxony-Anhalt,Computer science,male,4200,3600
+Berlin,Computer science,male,7100,6000
+Thüringen,Computer science,male,4500,3800
+Mecklenburg-Vorpommern,Computer science,male,2500,2100
+Baden-Württemberg,Computer science,male,18200,15400
+Hessen,Computer science,male,11500,9800
+Schleswig-Holstein,Computer science,male,4100,3500
+Bayern,Computer science,male,23500,20000
+Hamburg,Computer science,male,4100,3500
+Bremen,Computer science,male,1500,1300
+Saarland,Computer science,male,2100,1800
+Brandenburg,Computer science,male,3300,2800
+Saxony-Anhalt,Computer science,female,5700,4800
+Berlin,Computer science,female,5900,5000
+Thüringen,Computer science,female,5700,4900
+Mecklenburg-Vorpommern,Computer science,female,3800,3200
+Baden-Württemberg,Computer science,female,18600,15800
+Hessen,Computer science,female,11700,9900
+Schleswig-Holstein,Computer science,female,5200,4400
+Bayern,Computer science,female,27700,23500
+Hamburg,Computer science,female,3300,2800
+Bremen,Computer science,female,1100,1000
+Saarland,Computer science,female,2700,2300
+Brandenburg,Computer science,female,4500,3800
+Saxony-Anhalt,Medicine,male,1000,1000
+Berlin,Medicine,male,1000,1000
+Thüringen,Medicine,male,1000,1000
+Mecklenburg-Vorpommern,Medicine,male,1000,1000
+Baden-Württemberg,Medicine,male,1000,1000
+Hessen,Medicine,male,1000,1000
+Schleswig-Holstein,Medicine,male,1000,1000
+Bayern,Medicine,male,1000,1000
+Hamburg,Medicine,male,1000,1000
+Bremen,Medicine,male,1000,1000
+Saarland,Medicine,male,1000,1000
+Brandenburg,Medicine,male,1000,1000
+Saxony-Anhalt,Medicine,female,1000,1000
+Berlin,Medicine,female,1000,1000
+Thüringen,Medicine,female,1000,1000
+Mecklenburg-Vorpommern,Medicine,female,1000,1000
+Baden-Württemberg,Medicine,female,1000,1000
+Hessen,Medicine,female,1000,1000
+Schleswig-Holstein,Medicine,female,1000,1000
+Bayern,Medicine,female,1200,1000
+Hamburg,Medicine,female,1000,1000
+Bremen,Medicine,female,1000,1000
+Saarland,Medicine,female,1000,1000
+Brandenburg,Medicine,female,1000,1000
+Saxony-Anhalt,Physics,male,2800,2300
+Berlin,Physics,male,5100,4400
+Thüringen,Physics,male,2700,2300
+Mecklenburg-Vorpommern,Physics,male,1400,1200
+Baden-Württemberg,Physics,male,10400,8900
+Hessen,Physics,male,6200,5300
+Schleswig-Holstein,Physics,male,2600,2200
+Bayern,Physics,male,14900,12700
+Hamburg,Physics,male,2600,2200
+Bremen,Physics,male,1000,1000
+Saarland,Physics,male,1100,1000
+Brandenburg,Physics,male,2300,2000
+Saxony-Anhalt,Physics,female,2100,1700
+Berlin,Physics,female,2800,2400
+Thüringen,Physics,female,2400,2100
+Mecklenburg-Vorpommern,Physics,female,1200,1000
+Baden-Württemberg,Physics,female,6600,5600
+Hessen,Physics,female,3900,3300
+Schleswig-Holstein,Physics,female,1600,1400
+Bayern,Physics,female,10000,8500
+Hamburg,Physics,female,1500,1200
+Bremen,Physics,female,1000,1000
+Saarland,Physics,female,1000,1000
+Brandenburg,Physics,female,1400,1200
+Saxony-Anhalt,Humanities,male,1000,1000
+Berlin,Humanities,male,1000,1000
+Thüringen,Humanities,male,1000,1000
+Mecklenburg-Vorpommern,Humanities,male,1000,1000
+Baden-Württemberg,Humanities,male,1300,1100
+Hessen,Humanities,male,1000,1000
+Schleswig-Holstein,Humanities,male,1000,1000
+Bayern,Humanities,male,2100,1800
+Hamburg,Humanities,male,1000,1000
+Bremen,Humanities,male,1000,1000
+Saarland,Humanities,male,1000,1000
+Brandenburg,Humanities,male,1000,1000
+Saxony-Anhalt,Humanities,female,1000,1000
+Berlin,Humanities,female,1000,1000
+Thüringen,Humanities,female,1000,1000
+Mecklenburg-Vorpommern,Humanities,female,1000,1000
+Baden-Württemberg,Humanities,female,1100,1000
+Hessen,Humanities,female,1000,1000
+Schleswig-Holstein,Humanities,female,1000,1000
+Bayern,Humanities,female,1400,1200
+Hamburg,Humanities,female,1000,1000
+Bremen,Humanities,female,1000,1000
+Saarland,Humanities,female,1000,1000
+Brandenburg,Humanities,female,1000,1000
